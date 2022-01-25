@@ -1,6 +1,7 @@
 {
     "available_space": true,
-    "files": [
+    "total_size": 295.0571,
+    "videos": [
         "For Sentimental Reasons (from One Night Only! Rod Stewart Live at Royal Albert Hall)-rcXS-L-nDao.mp4",
         "Easy Star All-Stars - Time Version-OUKb2AsCUfo.mp4",
         "Dave Matthews Band - Digging a Ditch-O7kEJJ4-_KY.mp4",
@@ -24,7 +25,5 @@
         "Los Cadetes de Linares - Nomas Las Mujeres Quedan-MkSmv1Pi_Dc.mp4",
         "Echo & The Bunnymen - Bedbugs And Ballyhoo (Official Music Video)-J3ynYXAO-Pg.mp4",
         "Conjunto Primavera - Necesito Decirte (Video Oficial)-nSQ_Jtit0y0.mp4"
-    ],
-    "id": "k2",
-    "total_size": 281.38825878906255
+    ]
 }

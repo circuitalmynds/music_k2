@@ -1,29 +1,116 @@
 {
     "available_space": true,
-    "total_size": 295.0571,
-    "videos": [
-        "For Sentimental Reasons (from One Night Only! Rod Stewart Live at Royal Albert Hall)-rcXS-L-nDao.mp4",
-        "Easy Star All-Stars - Time Version-OUKb2AsCUfo.mp4",
-        "Dave Matthews Band - Digging a Ditch-O7kEJJ4-_KY.mp4",
-        "Slayer - Bloodline (Official Video)-WfKUWvVCwvE.mp4",
-        "Cosas del Amor _ Amiga _ Ana Gabriel y Vikki Carr-qvzzMPPZezU.mp4",
-        "Emperor - I Am the Black Wizards-YgQRRI9goFg.mp4",
-        "Los Panchos - Caminemos-JbFDhkyio4Q.mp4",
-        "L'Impératrice ♗ VANILLE FRAISE(2).mp4",
-        "Envidia Kotxina - Rekuerdos-dhHI77DQ5g4.mp4",
-        "Dragonforce - Fields of Despair-S-nIPxSFPfs.mp4",
-        "Pink Floyd - Speak To Me _ Breathe HD (Studio Version)-R49d4f5sEs4.mp4",
-        "The Sugarcubes - Deus Live Spain 1988 - RockoPop - Bjork Rare-TlViAids4_g.mp4",
-        "Higher Hell-CMh55H3K8fY.mp4",
-        "Asto pituak - Poc@s tanto much@s tan poco-bQRrvA83OZI.mp4",
-        "La Bionda    -  Disco Roller 1979-5bfE4bo4bTQ.mp4",
-        "Grupo Imperio - La Arrastrada (En Vivo 2017)-xzKV7lNBbKQ.mp4",
-        "Calle 13 - A Limpiar El Sucio (Cover Audio Video)-MOI6bDHAizQ.mp4",
-        "Grupo Pesado - ' Como tu Enemigo'-Ydrjo1Njn30.mp4",
-        "Ego Brain-SCXdbOsP5Ew.mp4",
-        "Stevie Ray Vaughan & Double Trouble - Couldn't Stand the Weather (Video)-nO23B5C_Mcw.mp4",
-        "Los Cadetes de Linares - Nomas Las Mujeres Quedan-MkSmv1Pi_Dc.mp4",
-        "Echo & The Bunnymen - Bedbugs And Ballyhoo (Official Music Video)-J3ynYXAO-Pg.mp4",
-        "Conjunto Primavera - Necesito Decirte (Video Oficial)-nSQ_Jtit0y0.mp4"
-    ]
+    "files": [
+        {
+            "name": "For Sentimental Reasons (from One Night Only! Rod Stewart Live at Royal Albert Hall)-rcXS-L-nDao.mp4",
+            "path": "music_k2/videos/For Sentimental Reasons (from One Night Only! Rod Stewart Live at Royal Albert Hall)-rcXS-L-nDao.mp4",
+            "size": 17.451789312000002
+        },
+        {
+            "name": "Easy Star All-Stars - Time Version-OUKb2AsCUfo.mp4",
+            "path": "music_k2/videos/Easy Star All-Stars - Time Version-OUKb2AsCUfo.mp4",
+            "size": 5.19181312
+        },
+        {
+            "name": "Dave Matthews Band - Digging a Ditch-O7kEJJ4-_KY.mp4",
+            "path": "music_k2/videos/Dave Matthews Band - Digging a Ditch-O7kEJJ4-_KY.mp4",
+            "size": 12.990801920000001
+        },
+        {
+            "name": "Slayer - Bloodline (Official Video)-WfKUWvVCwvE.mp4",
+            "path": "music_k2/videos/Slayer - Bloodline (Official Video)-WfKUWvVCwvE.mp4",
+            "size": 17.705971712
+        },
+        {
+            "name": "Cosas del Amor _ Amiga _ Ana Gabriel y Vikki Carr-qvzzMPPZezU.mp4",
+            "path": "music_k2/videos/Cosas del Amor _ Amiga _ Ana Gabriel y Vikki Carr-qvzzMPPZezU.mp4",
+            "size": 11.240599552
+        },
+        {
+            "name": "Emperor - I Am the Black Wizards-YgQRRI9goFg.mp4",
+            "path": "music_k2/videos/Emperor - I Am the Black Wizards-YgQRRI9goFg.mp4",
+            "size": 15.509177344000001
+        },
+        {
+            "name": "Los Panchos - Caminemos-JbFDhkyio4Q.mp4",
+            "path": "music_k2/videos/Los Panchos - Caminemos-JbFDhkyio4Q.mp4",
+            "size": 6.533287936000001
+        },
+        {
+            "name": "Envidia Kotxina - Rekuerdos-dhHI77DQ5g4.mp4",
+            "path": "music_k2/videos/Envidia Kotxina - Rekuerdos-dhHI77DQ5g4.mp4",
+            "size": 7.4465300480000005
+        },
+        {
+            "name": "Dragonforce - Fields of Despair-S-nIPxSFPfs.mp4",
+            "path": "music_k2/videos/Dragonforce - Fields of Despair-S-nIPxSFPfs.mp4",
+            "size": 7.672177664
+        },
+        {
+            "name": "Pink Floyd - Speak To Me _ Breathe HD (Studio Version)-R49d4f5sEs4.mp4",
+            "path": "music_k2/videos/Pink Floyd - Speak To Me _ Breathe HD (Studio Version)-R49d4f5sEs4.mp4",
+            "size": 6.627130368
+        },
+        {
+            "name": "The Sugarcubes - Deus Live Spain 1988 - RockoPop - Bjork Rare-TlViAids4_g.mp4",
+            "path": "music_k2/videos/The Sugarcubes - Deus Live Spain 1988 - RockoPop - Bjork Rare-TlViAids4_g.mp4",
+            "size": 21.145187328000002
+        },
+        {
+            "name": "Higher Hell-CMh55H3K8fY.mp4",
+            "path": "music_k2/videos/Higher Hell-CMh55H3K8fY.mp4",
+            "size": 9.832468480000001
+        },
+        {
+            "name": "Asto pituak - Poc@s tanto much@s tan poco-bQRrvA83OZI.mp4",
+            "path": "music_k2/videos/Asto pituak - Poc@s tanto much@s tan poco-bQRrvA83OZI.mp4",
+            "size": 5.467353088
+        },
+        {
+            "name": "La Bionda    -  Disco Roller 1979-5bfE4bo4bTQ.mp4",
+            "path": "music_k2/videos/La Bionda    -  Disco Roller 1979-5bfE4bo4bTQ.mp4",
+            "size": 11.775117312
+        },
+        {
+            "name": "Grupo Imperio - La Arrastrada (En Vivo 2017)-xzKV7lNBbKQ.mp4",
+            "path": "music_k2/videos/Grupo Imperio - La Arrastrada (En Vivo 2017)-xzKV7lNBbKQ.mp4",
+            "size": 12.825940992000001
+        },
+        {
+            "name": "Calle 13 - A Limpiar El Sucio (Cover Audio Video)-MOI6bDHAizQ.mp4",
+            "path": "music_k2/videos/Calle 13 - A Limpiar El Sucio (Cover Audio Video)-MOI6bDHAizQ.mp4",
+            "size": 10.557507584000001
+        },
+        {
+            "name": "Grupo Pesado - ' Como tu Enemigo'-Ydrjo1Njn30.mp4",
+            "path": "music_k2/videos/Grupo Pesado - ' Como tu Enemigo'-Ydrjo1Njn30.mp4",
+            "size": 6.653184
+        },
+        {
+            "name": "Ego Brain-SCXdbOsP5Ew.mp4",
+            "path": "music_k2/videos/Ego Brain-SCXdbOsP5Ew.mp4",
+            "size": 3.214025728
+        },
+        {
+            "name": "Stevie Ray Vaughan & Double Trouble - Couldn't Stand the Weather (Video)-nO23B5C_Mcw.mp4",
+            "path": "music_k2/videos/Stevie Ray Vaughan & Double Trouble - Couldn't Stand the Weather (Video)-nO23B5C_Mcw.mp4",
+            "size": 24.536430592000002
+        },
+        {
+            "name": "Los Cadetes de Linares - Nomas Las Mujeres Quedan-MkSmv1Pi_Dc.mp4",
+            "path": "music_k2/videos/Los Cadetes de Linares - Nomas Las Mujeres Quedan-MkSmv1Pi_Dc.mp4",
+            "size": 6.54288384
+        },
+        {
+            "name": "Echo & The Bunnymen - Bedbugs And Ballyhoo (Official Music Video)-J3ynYXAO-Pg.mp4",
+            "path": "music_k2/videos/Echo & The Bunnymen - Bedbugs And Ballyhoo (Official Music Video)-J3ynYXAO-Pg.mp4",
+            "size": 18.053865472000002
+        },
+        {
+            "name": "Conjunto Primavera - Necesito Decirte (Video Oficial)-nSQ_Jtit0y0.mp4",
+            "path": "music_k2/videos/Conjunto Primavera - Necesito Decirte (Video Oficial)-nSQ_Jtit0y0.mp4",
+            "size": 11.049769984000001
+        }
+    ],
+    "total_size": 250.023013376
 }

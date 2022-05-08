@@ -2,6 +2,11 @@
     "available_space": true,
     "files": [
         {
+            "name": "João Gilberto - 13 - É Luxo Só-KjIrfh6bpdY.mp4",
+            "path": "music_k2/videos/João Gilberto - 13 - É Luxo Só-KjIrfh6bpdY.mp4",
+            "size": 2.8740915200000003
+        },
+        {
             "name": "For Sentimental Reasons (from One Night Only! Rod Stewart Live at Royal Albert Hall)-rcXS-L-nDao.mp4",
             "path": "music_k2/videos/For Sentimental Reasons (from One Night Only! Rod Stewart Live at Royal Albert Hall)-rcXS-L-nDao.mp4",
             "size": 17.451789312000002
@@ -117,5 +122,5 @@
             "size": 11.049769984000001
         }
     ],
-    "total_size": 266.861733888
+    "total_size": 269.73582540800004
 }

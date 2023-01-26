@@ -44,6 +44,13 @@
             "url": "https://github.com/circuitalmynds/music_k2/blob/main/videos/A Quien Corresponda-dbrKt4Duk0U.mp4?raw=true"
         },
         {
+            "id": "kZ2iRHsG3zw",
+            "name": "L'Impératrice ♔ L'Impératrice-kZ2iRHsG3zw.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/k2/videos/L'Impératrice ♔ L'Impératrice-kZ2iRHsG3zw.mp4",
+            "size": 12.978638,
+            "url": "https://github.com/circuitalmynds/music_k2/blob/main/videos/L'Impératrice ♔ L'Impératrice-kZ2iRHsG3zw.mp4?raw=true"
+        },
+        {
             "id": "WEXdCdElCSg",
             "name": "Justice - Planisphère (Full EP)-WEXdCdElCSg.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/k2/videos/Justice - Planisphère (Full EP)-WEXdCdElCSg.mp4",
@@ -133,6 +140,13 @@
             "path": "/home/alanmatzumiya/Videos/containers/k2/videos/Slayer - Bloodline (Official Video)-WfKUWvVCwvE.mp4",
             "size": 17.290988,
             "url": "https://github.com/circuitalmynds/music_k2/blob/main/videos/Slayer - Bloodline (Official Video)-WfKUWvVCwvE.mp4?raw=true"
+        },
+        {
+            "id": "WfKUWvVCwvE",
+            "name": "Slayer - Bloodline-WfKUWvVCwvE.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/k2/videos/Slayer - Bloodline-WfKUWvVCwvE.mp4",
+            "size": 9.320454999999999,
+            "url": "https://github.com/circuitalmynds/music_k2/blob/main/videos/Slayer - Bloodline-WfKUWvVCwvE.mp4?raw=true"
         },
         {
             "id": "nO23B5C_Mcw",
@@ -359,5 +373,5 @@
             "url": "https://github.com/circuitalmynds/music_k2/blob/main/videos/Pink Floyd - Speak To Me _ Breathe HD (Studio Version)-R49d4f5sEs4.mp4?raw=true"
         }
     ],
-    "total_size": 995.4731499999999
+    "total_size": 1017.7722429999999
 }

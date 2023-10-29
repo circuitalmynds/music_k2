@@ -86,6 +86,13 @@
             "url": "https://github.com/circuitalmynds/music_k2/blob/main/videos/Emperor - I Am the Black Wizards-YgQRRI9goFg.mp4?raw=true"
         },
         {
+            "id": "7CnElTjLsJo",
+            "name": "Igor Stravinsky： Four Etudes (1908) [7CnElTjLsJo].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/k2/videos/Igor Stravinsky： Four Etudes (1908) [7CnElTjLsJo].mp4",
+            "size": 14.683375,
+            "url": "https://github.com/circuitalmynds/music_k2/blob/main/videos/Igor Stravinsky： Four Etudes (1908) [7CnElTjLsJo].mp4?raw=true"
+        },
+        {
             "id": "nO23B5C_Mcw",
             "name": "Stevie Ray Vaughan & Double Trouble - Couldn't Stand the Weather (Video)-nO23B5C_Mcw.mp4",
             "path": "/home/alanmatzumiya/Videos/container/k2/videos/Stevie Ray Vaughan & Double Trouble - Couldn't Stand the Weather (Video)-nO23B5C_Mcw.mp4",
@@ -112,6 +119,13 @@
             "path": "/home/alanmatzumiya/Videos/container/k2/videos/Dave Matthews Band - Digging a Ditch-O7kEJJ4-_KY.mp4",
             "size": 12.68633,
             "url": "https://github.com/circuitalmynds/music_k2/blob/main/videos/Dave Matthews Band - Digging a Ditch-O7kEJJ4-_KY.mp4?raw=true"
+        },
+        {
+            "id": "Xp1MqqHIU-4",
+            "name": "Disco Magic [Xp1MqqHIU-4].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/k2/videos/Disco Magic [Xp1MqqHIU-4].mp4",
+            "size": 11.001368,
+            "url": "https://github.com/circuitalmynds/music_k2/blob/main/videos/Disco Magic [Xp1MqqHIU-4].mp4?raw=true"
         },
         {
             "id": "N_k0CF1VnNg",
@@ -177,11 +191,25 @@
             "url": "https://github.com/circuitalmynds/music_k2/blob/main/videos/The Sugarcubes - Deus Live Spain 1988 - RockoPop - Bjork Rare [TlViAids4_g].mp4?raw=true"
         },
         {
+            "id": "wN4UD-LyunI",
+            "name": "Yellowman - A Jamaican Collection (full album) [wN4UD-LyunI].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/k2/videos/Yellowman - A Jamaican Collection (full album) [wN4UD-LyunI].mp4",
+            "size": 53.087990999999995,
+            "url": "https://github.com/circuitalmynds/music_k2/blob/main/videos/Yellowman - A Jamaican Collection (full album) [wN4UD-LyunI].mp4?raw=true"
+        },
+        {
             "id": "21D1_nd6FsI",
             "name": "Extremoduro - Te venderia mi alma lucifer-21D1_nd6FsI.mp4",
             "path": "/home/alanmatzumiya/Videos/container/k2/videos/Extremoduro - Te venderia mi alma lucifer-21D1_nd6FsI.mp4",
             "size": 11.32026,
             "url": "https://github.com/circuitalmynds/music_k2/blob/main/videos/Extremoduro - Te venderia mi alma lucifer-21D1_nd6FsI.mp4?raw=true"
+        },
+        {
+            "id": "fTtVAbvH-3k",
+            "name": "Juventino Rosas Vals dos pensamientos [fTtVAbvH-3k].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/k2/videos/Juventino Rosas Vals dos pensamientos [fTtVAbvH-3k].mp4",
+            "size": 8.445108,
+            "url": "https://github.com/circuitalmynds/music_k2/blob/main/videos/Juventino Rosas Vals dos pensamientos [fTtVAbvH-3k].mp4?raw=true"
         },
         {
             "id": "hPZhc8oVh9M",
@@ -324,5 +352,5 @@
             "url": "https://github.com/circuitalmynds/music_k2/blob/main/videos/Higher Hell-CMh55H3K8fY.mp4?raw=true"
         }
     ],
-    "total_size": 841.7578599999999
+    "total_size": 928.975702
 }
